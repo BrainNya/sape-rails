@@ -92,8 +92,7 @@ module Sape
                      "/code.php?user=#{@options[:user]}&" +
                      "host=#{@options[:host]}&" +
                      "as_txt=true&" +
-                     "charset=#{@options[:charset]}&" +
-                     "no_slash_fix=true")
+                     "charset=#{@options[:charset]}&")
         
         
         all_links = parse_links(content)
