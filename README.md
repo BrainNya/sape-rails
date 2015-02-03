@@ -34,7 +34,7 @@ config/sape.yml
 ```yml
 user_id: номер в сапе
 host: Хост, где показываем ссылки
-server: Откуда берем ссылки. По умолчанию 'dispencer-01.sape.ru'
+server: Откуда берем ссылки. По умолчанию 'dispenser-01.saperu.net
 timeout: Время между обновлениями links.db, по умолчанию: 3600
 ```
 C ошибками - велкам в issues
